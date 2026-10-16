@@ -1,8 +1,7 @@
 # Odin Recipes
 
 A simple recipe website built with HTML as part of The Odin Project Foundations course.
-
-**[🌐 View Live Website](https://sleelamadhav90-ai.github.io/odin-recipes/)**
+[🌐 View Live Website](https://sleelamadhav90-ai.github.io/odin-recipes/landing-page/)
 
 ## Recipes
 
